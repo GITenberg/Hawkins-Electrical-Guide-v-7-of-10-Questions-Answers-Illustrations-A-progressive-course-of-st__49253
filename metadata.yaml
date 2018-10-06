@@ -24,6 +24,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Hawkins Electrical Guide v. 7 (of 10)
 
   Questions, Answers, & Illustrations, A progressive course
